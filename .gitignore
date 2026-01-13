@@ -48,3 +48,6 @@ build/
 .settings
 
 pubspec_overrides.yaml
+
+.swiftpm/
+.build/
