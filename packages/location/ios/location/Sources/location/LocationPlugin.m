@@ -1,4 +1,4 @@
-#import "LocationPlugin.h"
+#import "include/location/LocationPlugin.h"
 
 #ifdef COCOAPODS
 @import CoreLocation;
